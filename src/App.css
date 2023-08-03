@@ -1,0 +1,46 @@
+.container{
+  margin: 0 auto;
+  margin-top: 15px;
+  width: 1300px;
+  /* height: 690px; */
+  /* border: 3px solid black; */
+  overflow: hidden;
+}
+.row{
+  border: 2px solid gray;
+  width: 470px;
+  float: left;
+  margin: 60px 0 0 20px;
+  border-radius: 8px;
+}
+h2,h4{
+  margin: 20px 0 0 20px;
+}
+
+input{
+  margin-left: 20px;
+  margin-bottom: 20px;
+  width: 300px;
+  height: 30px;
+  border: 1px solid ;
+  
+}
+textarea{
+  margin-left: 20px;
+  width: 300px;
+  height: 70px;
+  border: 1px solid ;
+}
+.btn{
+  width: 100px;
+  height: 30px;
+  padding: 3px;
+  margin: 30px 0 30px 20px;
+}
+.accordianBlock{
+  float: right;
+  /* border: 3px solid black; */
+  width: 500px;
+  margin: 60px 20px 0 0;
+
+}
